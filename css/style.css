@@ -1,0 +1,1104 @@
+/* importfonts */
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cardo&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+/* figures */
+.btnheader {
+  border-width: 0px;
+  padding-top: 20px;
+}
+.drpdwnheader {
+  border: #ffffff 0px;
+  padding-top: 20px;
+}
+.view1 {
+  background-image: url("../images/bgview1.jpg");
+  background-color: white;
+  background-repeat: no-repeat;
+}
+
+.sideimg {
+  height: 500px;
+  width: 500px;
+  padding-left: 25px;
+  background-repeat: no-repeat;
+}
+
+.behindtext {
+  background-image: url("../images/bg1.jpg");
+  background-color: white;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.button1t {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20.3232px;
+  letter-spacing: 0.05em;
+  margin: auto;
+  color: #ffffff;
+}
+
+
+/* lower picture */
+
+.image-container  {
+  height: 200px;
+  width: 100%;
+  position: relative;
+}
+.image-container img {
+  height: 100%;
+  padding: 5px;
+  object-fit: cover;
+ 
+}
+.image-container .name {
+  position: absolute;
+  bottom: 10px;
+  color: white;
+}
+.image-container .price {
+  position: absolute;
+  top: 30px;
+  right: 50px;
+  background-color: burlywood;
+  color: white;
+  padding: 5px 10px;
+  font-weight: 500;
+}
+
+.navImg {
+  bottom: -600px;
+}
+
+/* section2 */
+.buttonset2 {
+  background: #ffffff;
+  border: 1.01293px solid #bead8e;
+  box-shadow: none;
+  width: 100%;
+}
+
+.checkdetails {
+  color: #bead8e;
+}
+
+.btn2last {
+  background: #bead8e;
+  padding-bottom: 5px;
+  border-style: none;
+}
+
+.view3 {
+  background-image: url("../images/bg3.jpg");
+  background-color: white;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.container-section4 {
+  height: auto;
+  background-image: url("../images/bg\ img\ 4.jpg");
+  background-color: white;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.row-container {
+  height: 100%;
+}
+.left-col,
+.right-col {
+  height: 80%;
+}
+
+.bg-image4l {
+  background-image: url("../images/shapes4b.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.bg-image4r {
+  background-image: url("../images/shapes4w.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.container-footer {
+  background-color: #413525;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+}
+
+.whitebg {
+  background-color: #413525;
+}
+
+.logo5 {
+  background-repeat: no-repeat;
+  width: 180px;
+}
+.fbtwitterig {
+  width: 200px;
+  height: 50px;
+  left: 152.03px;
+  top: 6019.8px;
+}
+
+/* FONTS */
+
+.header {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: bold;
+}
+
+.hf1 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25.3232px;
+  line-height: 30px;
+  letter-spacing: 0.04em;
+
+  color: #c19b77;
+}
+
+.e1 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24;
+  line-height: 28px;
+
+  color: #636363;
+}
+
+p.fonts {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 47px;
+  line-height: 96px;
+}
+/* 2 */
+.fh2 {
+  font-family: "Times New Roman";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30.3103px;
+  line-height: 28px;
+  padding-top: 10px;
+
+
+  color: #bead8e;
+}
+
+.ff2 {
+  font-family: "Times New Roman";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 71.918px;
+  line-height: 83px;
+  letter-spacing: 0.03em;
+
+  color: #000000;
+}
+
+.fb2 {
+  font-family: "Times New Roman";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: #000000;
+}
+
+.rb2 {
+  font-family: "Times New Roman";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50.918px;
+  line-height: 83px;
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+
+.consectetur {
+  font-family: "DM Sans";
+  font-style: normal;
+  padding-bottom: 10px;
+  font-weight: 200;
+  font-size: 20.2844px;
+  line-height: 29px;
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+
+.btnb2 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 60px;
+  letter-spacing: 0.03em;
+  margin-top: 0;
+  margin-bottom: 0rem;
+  color: #ffffff;
+}
+
+/* 3 */
+.Ph3 {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22.2844px;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+}
+
+.Pg3 {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 67.8662px;
+  line-height: 90px;
+  letter-spacing: 0.04em;
+
+  color: #ffffff;
+}
+/* 4 */
+.our {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 61.7887px;
+  line-height: 82px;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+.timing {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32.4137px;
+  line-height: 43px;
+  letter-spacing: 0.1em;
+
+  color: #ffffff;
+}
+.d4 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20.2586px;
+  line-height: 24px;
+  letter-spacing: 0.15em;
+
+  color: #ffffff;
+}
+.t4 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18.2586px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.12em;
+
+  color: #ffffff;
+}
+.num {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: bold;
+  font-weight: 500px;
+  font-size: 40px;
+  line-height: 60px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.stay4 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25.3232px;
+  line-height: 28px;
+  letter-spacing: 0.04em;
+
+  color: #c19b77;
+}
+
+.get4 {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 55.8792px;
+  line-height: 92px;
+  letter-spacing: 0.04em;
+
+  color: #000000;
+}
+
+.form4 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+  letter-spacing: 0.04em;
+
+  color: #000000;
+}
+
+.sm4 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19.2457px;
+  line-height: 23px;
+  letter-spacing: 0.27em;
+
+  color: #ffffff;
+}
+/* 5 */
+
+.faq1-5 {
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28.362px;
+  line-height: 39px;
+
+  color: #474a57;
+}
+
+.faq2-5 {
+  font-family: "Cardo";
+  font-style: normal;
+  font-weight: bold;
+  font-weight: 700;
+  font-size: 50.7111px;
+  line-height: 70px;
+
+  color: #000000;
+}
+
+.q5 {
+  font-family: "Cardo";
+  font-style: normal;
+  font-weight: 300px;
+  font-size: 30px;
+  line-height: 45px;
+  letter-spacing: 0.01em;
+
+  color: #474a57;
+}
+
+/* footer */
+
+.hoteldets {
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  line-height: 35px;
+  letter-spacing: 0.01em;
+
+  color: #ffffff;
+}
+
+.roc {
+  font-family: "Cardo";
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bulletf {
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.04em;
+
+  color: #ffffff;
+}
+
+.bulletfbold {
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.copyright {
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+/*  */
+
+@media only screen and (min-width: 1200px) {
+  /* / styles for browsers larger than 1200px; / */
+  navImg {
+    bottom: -630px;
+  }
+} 
+
+@media only screen and (min-width: 960px) {
+  .sideimg {
+    width: 750px;
+    height: 680px;
+    padding-left: 50px;
+    max-width: 100%;
+    background-repeat: no-repeat;
+  }
+  
+  .hf1 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25.3232px;
+    line-height: 30px;
+    letter-spacing: 0.04em;
+    color: #c19b77;
+    padding-top: 50px;
+}
+.fb2 {
+  font-family: "Times New Roman";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 21px;
+  margin: 14px;
+  color: #000000;
+}
+  .ff2 {
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-weight: 350px;
+    font-size: 50px;
+    line-height: 53px;
+    letter-spacing: 0.03em;
+
+    color: #000000;
+  }
+
+  .d4 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.15em;
+
+    color: #ffffff;
+  }
+  .t4 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.12em;
+
+    color: #ffffff;
+  }
+  .num {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 300px;
+    font-size: 25px;
+    line-height: 60px;
+    text-align: center;
+
+    color: #ffffff;
+  }
+  .get4 {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 30px;
+    padding-bottom: 10px;
+    letter-spacing: 0.04em;
+
+    color: #000000;
+  }
+}
+
+@media only screen and (max-device-width: 768px) {
+  p.fonts {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 200px;
+    font-size: 40px;
+    line-height: 43px;
+  }
+  .sideimg {
+    height: 380px;
+    width: 300px;
+    text-align: -webkit-center;
+    background-repeat: no-repeat;
+  }
+
+
+  .ff2 {
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-weight: 200px;
+    font-size: 46px;
+    line-height: 60px;
+    letter-spacing: 0.03em;
+
+    color: #000000;
+  }
+
+  .fb2 {
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    margin: 16px;
+    color: #000000;
+  }
+  .view3 {
+    background-image: url("../images/bg3.jpg");
+    background-color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  
+    padding-top: 50px;
+    padding-bottom: 35px;
+  }
+  /* section4 */
+  .our {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 300px;
+    font-size: 40px;
+    line-height: 20px;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+  }
+  .timing {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 300px;
+    font-size: 27px;
+    line-height: 30px;
+    letter-spacing: 0.1em;
+
+    color: #ffffff;
+  }
+  .d4 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 15px;
+    line-height: 15px;
+    letter-spacing: 0.15em;
+
+    color: #ffffff;
+  }
+  .t4 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 15px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.12em;
+
+    color: #ffffff;
+  }
+  .num {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 500px;
+    font-size: 30px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #ffffff;
+  }
+
+  .stay4 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25.3232px;
+    line-height: 5px;
+    letter-spacing: 0.04em;
+
+    color: #c19b77;
+  }
+
+  .get4 {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 30px;
+    letter-spacing: 0.04em;
+
+    color: #000000;
+  }
+
+  .form4 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 15px;
+    letter-spacing: 0.04em;
+
+    color: #000000;
+  }
+
+  .sm4 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19.2457px;
+    line-height: 23px;
+    letter-spacing: 0.27em;
+
+    color: #ffffff;
+  }
+
+  .logo5 {
+    background-repeat: no-repeat;
+    width: 140px;
+  }
+
+  .hoteldets {
+    font-family: "Nunito Sans";
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0.01em;
+    text-align: center;
+
+    color: #ffffff;
+  }
+
+  .roc {
+    font-family: "Cardo";
+    font-style: normal;
+    font-weight: 400;
+  }
+
+  .bulletf {
+    font-family: "Nunito Sans";
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.04em;
+
+    color: #ffffff;
+  }
+
+  .bulletfbold {
+    font-family: "Nunito Sans";
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.04em;
+    font-weight: bold;
+    color: #ffffff;
+  }
+}
+
+@media only screen and (max-device-width: 480px) {
+  p.fonts {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 200px;
+    font-size: 30px;
+    line-height: 43px;
+  }
+
+  .sideimg {
+    height: 380px;
+    width: 300px;
+    padding-left: 5px;
+    background-repeat: no-repeat;
+  }
+
+  .fb2 {
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    margin: 14px;
+    color: #000000;
+  }
+  .ff2 {
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-weight: 350px;
+    font-size: 26px;
+    line-height: 53px;
+    letter-spacing: 0.03em;
+
+    color: #000000;
+  }
+  .s43 {
+    width: 30px;
+  }
+  .rb2 {
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 38px;
+    line-height: 63px;
+    letter-spacing: 0.03em;
+    color: #000000;
+  }
+
+  .consectetur {
+    font-family: "DM Sans";
+    font-style: normal;
+    padding-bottom: 10px;
+    font-weight: 200;
+    font-size: 20.2844px;
+    line-height: 29px;
+    letter-spacing: 0.03em;
+    color: #000000;
+    padding-inline-start: 20px;
+  }
+  .Pg3 {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 90px;
+    letter-spacing: 0.04em;
+
+    color: #ffffff;
+  }
+
+  .view3 {
+    background-image: url("../images/bg3.jpg");
+    background-color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  /* 4 */
+  .our {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 10px;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+  }
+  .timing {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+
+    color: #ffffff;
+  }
+  .d4 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 200px;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 0.6em;
+
+    color: #ffffff;
+  }
+  .t4 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 100px;
+    font-size: 10px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 0.8em;
+
+    color: #ffffff;
+  }
+  .num {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 50px;
+    font-size: 14px;
+    line-height: 15px;
+    text-align: center;
+
+    color: #ffffff;
+  }
+
+  .stay4 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 300px;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0.04em;
+
+    color: #c19b77;
+  }
+
+  .get4 {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 300px;
+    font-size: 25px;
+    line-height: 40px;
+    letter-spacing: 0.04em;
+
+    color: #000000;
+  }
+
+  .form4 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 200pxc;
+    font-size: 10px;
+    line-height: 20px;
+    letter-spacing: 0.04em;
+
+    color: #000000;
+  }
+
+  .sm4 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.27em;
+
+    color: #ffffff;
+  }
+
+  .faq2-5 {
+    font-family: "Cardo";
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 400px;
+    font-size: 28px;
+    line-height: 50px;
+
+    color: #000000;
+  }
+  img.\34 3 {
+    height: 26px;
+  }
+}
+
+@media only screen and (max-device-width: 360px) {
+  .sideimg {
+    height: 380px;
+    width: 300px;
+    padding-left: 5px;
+    padding-right: 20px;
+    background-repeat: no-repeat;
+  }
+  p.fonts {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 200px;
+    font-size: 25px;
+    line-height: 43px;
+  }
+  .fb2 {
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    margin: 14px;
+    color: #000000;
+  }
+  .buttonset2 {
+    background: #ffffff;
+    border: 1.01293px solid #bead8e;
+    box-shadow: none;
+  }
+  .rb2 {
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-weight: 200px;
+    font-size: 35px;
+    line-height: 83px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #000000;
+  }
+  .consectetur {
+    font-family: "DM Sans";
+    font-style: normal;
+    padding-bottom: 10px;
+    font-weight: 200;
+    font-size: 18px;
+    justify-content: flex-start;
+    line-height: 29px;
+    letter-spacing: 0.03em;
+    color: #000000;
+  }
+  .Pg3 {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 35px;
+    line-height: 90px;
+    letter-spacing: 0.04em;
+
+    color: #ffffff;
+  }
+  
+  .view3 {
+    background-image: url("../images/bg3.jpg");
+    background-color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  
+    padding-top: 50px;
+    padding-bottom: 35px;
+  }
+
+  
+  /* 4 */
+  .our {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 200px;
+    font-size: 30px;
+    line-height: 10px;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+  }
+  .timing {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.1em;
+
+    color: #ffffff;
+  }
+  .d4 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 50px;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.2em;
+
+    color: #ffffff;
+  }
+  .t4 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 100px;
+    font-size: 10px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 0.8em;
+
+    color: #ffffff;
+  }
+  .num {
+    font-family: "Playfair Display";
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 25px;
+    color: #ffffff;
+    text-align: center;
+  }
+
+  .stay4 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 300px;
+    font-size: 11px;
+    line-height: 30px;
+    letter-spacing: 0.04em;
+
+    color: #c19b77;
+  }
+
+  .get4 {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 300px;
+    font-size: 19px;
+    line-height: 10px;
+    letter-spacing: 0.04em;
+
+    color: #000000;
+  }
+
+  .form4 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 200pxc;
+    font-size: 10px;
+    line-height: 30px;
+    letter-spacing: 0.04em;
+
+    color: #000000;
+  }
+
+  .sm4 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 200px;
+    font-size: 10px;
+    line-height: 18px;
+    letter-spacing: 0.27em;
+
+    color: #ffffff;
+  }
+  .faq2-5 {
+    font-family: "Cardo";
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 200px;
+    font-size: 23px;
+    line-height: 50px;
+
+    color: #000000;
+  }
+
+  img.\34 3 {
+    height: 26px;
+  }
+}
